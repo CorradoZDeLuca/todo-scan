@@ -1,7 +1,7 @@
 # todo-scan
 
 [![npm version](https://img.shields.io/npm/v/todo-scan.svg)](https://www.npmjs.com/package/todo-scan)
-[![license](https://img.shields.io/npm/l/todo-scan.svg)](https://github.com/CorradoZDeLuca/todo-scan/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/todo-scan.svg)](https://github.com/agent20usd/todo-scan/blob/main/LICENSE)
 [![node](https://img.shields.io/node/v/todo-scan.svg)](https://nodejs.org)
 
 Scan your codebase for TODO, FIXME, HACK, and other comment tags. Zero dependencies. CI/CD ready.
