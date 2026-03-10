@@ -1,5 +1,5 @@
 {
-  "name": "todo-scan",
+  "name": "todo-scan-cli",
   "version": "1.0.0",
   "description": "Scan your codebase for TODO, FIXME, HACK, and other comment tags. Zero dependencies. CI/CD ready.",
   "main": "src/index.js",
