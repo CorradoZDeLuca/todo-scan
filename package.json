@@ -1,0 +1,18 @@
+{
+  "name": "todo-scan",
+  "version": "1.0.0",
+  "description": "Scan your codebase for TODO, FIXME, HACK, and other comment tags. Zero dependencies. CI/CD ready.",
+  "main": "src/index.js",
+  "bin": {
+    "todo-scan": "src/cli.js"
+  },
+  "scripts": {
+    "test": "node --test test/test.js"
+  },
+  "keywords": ["todo", "fixme", "hack", "scanner", "lint", "ci", "cli", "code-quality", "comments", "devtools"],
+  "author": "AI Hustle Lab",
+  "license": "MIT",
+  "engines": { "node": ">=18.0.0" },
+  "files": ["src/", "LICENSE", "README.md"],
+  "repository": { "type": "git", "url": "https://github.com/CorradoZDeLuca/todo-scan" }
+}
